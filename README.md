@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Mansi Saroj
 
-First, run the development server:
+Full Stack Developer | Mumbai, Maharashtra, India
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I am a Full Stack Developer focused on building responsive web applications, developing practical solutions, and creating user-friendly digital experiences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technical Skills
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+**Frontend:** JavaScript, React.js, Next.js, HTML5, CSS3
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Backend:** Node.js, Express.js, PHP, CodeIgniter 4
 
-## Learn More
+**Databases:** MongoDB, MySQL
 
-To learn more about Next.js, take a look at the following resources:
+**Tools:** Git, GitHub, Postman, REST APIs
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Featured Work
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Personal Portfolio**
 
-## Deploy on Vercel
+A responsive portfolio showcasing my technical skills, professional experience, education, and selected projects.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Djobzy**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Website: https://www.djobzy.com/
+
+## Professional Interests
+
+- Full Stack Web Development
+- MERN Stack Development
+- Responsive Web Design
+- API Development
+- Database Management
+
+## Contact
+
+**Email:** [ms8357234@gmail.com](mailto:ms8357234@gmail.com)
+
+**LinkedIn:** https://www.linkedin.com/in/mansi-saroj-253490358/
+
+**Instagram:** https://www.instagram.com/mansisaroj.__/
+
+**WhatsApp:** https://wa.me/919867635420
